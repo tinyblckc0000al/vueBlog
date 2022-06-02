@@ -1,10 +1,11 @@
 /*
  * @Author: Hilla
  * @Date:   2022-05-16 23:56:40
- * @Last Modified by:   Hilla
- * @Last Modified time: 2022-06-02 18:03:32
+ * @Last Modified by:   hillary
+ * @Last Modified time: 2022-06-02 19:02:06
  */
 module.exports = {
+    base: 'vueBlog',
     title: 'tinyblckc0000al',
     description: '前端学习记录',
     themeConfig: {

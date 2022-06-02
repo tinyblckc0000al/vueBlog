@@ -2,7 +2,7 @@
 
 home: true
 heroImage: /assets/c411353d04169c43971032301c836a60.jpg
-heroText: 小黑煤
+heroText: tinyblckc0000al的博客
 tagline: 先开始，再打磨
 actionText: Get Started >
 actionLink: /node/
@@ -16,7 +16,8 @@ features:
 
 ---
 
-## Hello,2022
+# Hello,2022
+
 
 
 

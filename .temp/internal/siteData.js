@@ -4,7 +4,7 @@
 export const siteData = {
   "title": "tinyblckc0000al",
   "description": "前端学习记录",
-  "base": "/",
+  "base": "vueBlog",
   "headTags": [],
   "pages": [
     {
